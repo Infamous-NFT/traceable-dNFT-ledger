@@ -1,4 +1,4 @@
-# Traceable dNFT Ledger
+# Traceable dNFT Ledger (TdL)
 
 ## Introduction
 Traceable dNFT Ledger (TdL) is a blockchain-based dynamic NFT ledger that assures real-time synchronization with the on-chain data and high-throughput NFT updates. This project is designed by Matrix Labs to meet the needs for a backend for high throughput dNFT applications. 
