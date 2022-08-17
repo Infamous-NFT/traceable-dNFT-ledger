@@ -14,7 +14,7 @@ TdL is fully compatible with dynamic NFT standards and supports multiple blockch
 ### **High throughput**
 TdL can handle very high TPS for complex dNFT scenarios such as real-time games.
 ## Architecture
-![Traceable dNFT Ledger - Page 1](https://user-images.githubusercontent.com/55181785/181468746-48a868e9-a21c-44e1-a10f-f12e007957f5.png)
+![Traceable dNFT Ledger - Page 1 (8)](https://user-images.githubusercontent.com/55181785/185083965-96bb827e-63b5-41dd-998c-92c77e3d4aa6.png)
 ### **Event Handler**
 TdL’s Event Handler is fronted by the NFT metadata ledger that receives events emitted from an upstream blockchain (e.g., Ethereum, Aptos, Flow, etc.) in a subscription fashion or events from specific authorized servers/users. These events will trigger certain metadata mutation logic and mutate the metadata stored in the Metadata Ledger. 
 ### **NFT Metadata Ledger**
