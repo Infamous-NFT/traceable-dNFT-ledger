@@ -5,7 +5,7 @@
 This page introduces the proposal of implementing TdL using Aptos as the blockchain-based metadata ledger backend.
 
 ## Architecture
-![Aptos (2)](https://user-images.githubusercontent.com/55181785/181701970-f53fbffc-40c0-4de6-a8df-ffc7f7cb2215.png)
+![Aptos - Page 1](https://user-images.githubusercontent.com/55181785/185083488-9b5486d3-29d9-4b9d-9e28-eaddf1375bba.png)
 
 ### Event Handler Contract
 Event Handler is a module/smart contract deployed to Aptos that only received authed users and data sources. Event Handler will contain the customized logic to handle the events and mutate the metadata by invoking APIs of Metadata Contract. The permission control is also implemented inside the module itself for better transparency. 
